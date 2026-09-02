@@ -13,7 +13,7 @@ Throughout, the interesting work might surprise some — it has been at the seam
 
 ## Where I'm Aiming
 
-Four adjacent lanes, one underlying skill set. I'm open across all of them:
+Four adjacent lanes, one underlying skill set.
 
 | Focus | What I bring |
 |---|---|
