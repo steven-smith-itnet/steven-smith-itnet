@@ -86,7 +86,7 @@ to sit on either side of the table when someone tests them.
 
 ## Elsewhere
 
-- **Portfolio:** [brightridgellc.com/steven-smith-itnet/projects](https://www.brightridgellc.com/steven-smith-itnet/projects)
+- **Portfolio:** [brightridgellc.com/steven-smith-itnet](https://www.brightridgellc.com/steven-smith-itnet)
 - **LinkedIn:** [in/steven-smith-itnet](https://www.linkedin.com/in/steven-smith-itnet/)
 - **Credly:** [credly.com/users/steven-smith-itnet](https://www.credly.com/users/steven-smith-itnet)
 - **Email:** itnetsws@gmail.com
