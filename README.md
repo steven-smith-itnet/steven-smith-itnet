@@ -25,13 +25,6 @@ I am seeking roles that leverage an engineering mindset to effectively bridge th
 
 What ties these disciplines together: I excel at translating complex architecture into clear control narratives and turning existing systems into reliable, continuous compliance evidence sources rather than point-in-time screenshot exercises.
 
-| Focus | What I bring |
-|---|---|
-| **GRC engineering** | Policy-as-code, infrastructure-as-code guardrails, continuous control monitoring, automated evidence pipelines, KPI/KRI metrics, dashboards, and executive-visible scorecards |
-| **IT audit & assurance** | control design testing and control effectiveness testing, framework crosswalks, risk assessments, remediation tracking |
-| **Data protection / cryptography engineering** | KMS, HSM, PKI, encryption, tokenization, masking, key lifecycle governance |
-| **Security engineering** | Cloud and infrastructure security, identity and access management (IAM), CASB, DPSM, DLP, Cloud KMS, secure architecture, automation |
-
 ## What's Here
 
 A portfolio built to demonstrate the work rather than describe it.
