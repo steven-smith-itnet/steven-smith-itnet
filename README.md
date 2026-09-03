@@ -2,6 +2,8 @@
 
 Information security professional with 20+ years of experience designing, deploying, and managing network, security, and cloud infrastructure in regulated environments — now applying that engineering depth within the data protection, governance, risk, and assurance space.
 
+If you are looking for someone with a wide range of skills, a proven track record of execution and adapting to new priorities, and a balanced problem solver who can build and vet control environments, manage IT risk, lead teams, and ensure timely delivery of critical projects, let's connect!
+
 ## Background
 
 My IT career spans building carrier-grade backbones, cloud hosting engineering and support, next-generation spine-leaf data center and software-defined network and security architectures, and all the hardware, virtualization, protocols in between: routing, switching, firewalls, load balancers, data brokers, network monitoring and telemetry, security and endpoint monitoring tools, SIEM, IPS/IDS, cloud security, docker, K8s, Linux, and open-source tooling. Many of those solutions operated under real regulatory pressure — HIPAA, PCI DSS, NERC CIP, SOX/ITGC, CMMC, NIST 800-171, and FIPS 140-2/140-3.
