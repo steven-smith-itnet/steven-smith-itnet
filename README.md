@@ -1,6 +1,6 @@
 # Steven Smith<br><sub>Information Security · Data Protection · GRC · IT Audit </sub>
 
-Information security professional with 20+ years experience designing, deploying, and managing network, security, and cloud infrastructure in regulated environments — now applying that engineering depth within the data protection, governance, risk, and assurance space.
+Information security professional with 20+ years of experience designing, deploying, and managing network, security, and cloud infrastructure in regulated environments — now applying that engineering depth within the data protection, governance, risk, and assurance space.
 
 ## Background
 
