@@ -6,7 +6,7 @@ If you are looking for someone with a wide range of skills, a proven track recor
 
 ## Background
 
-My IT career spans building carrier-grade backbones, cloud hosting engineering and support, next-generation spine-leaf data center and software-defined network and security architectures, and all the hardware, virtualization, and protocols in between: routing, switching, firewalls, load balancers, data brokers, network monitoring and telemetry, security and endpoint monitoring tools, SIEM, IPS/IDS, cloud security, docker, K8s, Linux, and open-source tooling. Many of those solutions operated under real regulatory pressure — HIPAA, PCI DSS, NERC CIP, SOX/ITGC, CMMC, NIST 800-171, and FIPS 140-2/140-3.
+My IT career spans building carrier-grade backbones, cloud hosting engineering and support, next-generation spine-leaf data center and software-defined network and security architecture deployments, and all the hardware, virtualization, and protocols in between: routing, switching, firewalls, load balancers, data brokers, network monitoring and telemetry, security and endpoint monitoring tools, SIEM, IPS/IDS, cloud security, docker, K8s, Linux, and open-source tooling. Many of those solutions operated under real regulatory pressure and industry standards — HIPAA, PCI DSS, NERC CIP, SOX/ITGC, CMMC, NIST 800-171, FIPS 140-2/140-3, SOC 2, ISO 27001, GDPR, and others.
 
 I have most recently worked as a **data protection engineer** focused on encryption and masking: enterprise key management and HSMs, PKI and certificate lifecycle, tokenization, database and file-level encryption, and the CI/CD, IaC, and PaC best practices that keep all of it running at scale.
 
