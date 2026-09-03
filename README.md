@@ -12,19 +12,25 @@ I have most recently worked as a **data protection engineer** focused on encrypt
 
 Throughout, the interesting work might surprise some — it has been at the seam: partnering with internal IT auditors and GRC teams on regulatory assessments, acting as the technical liaison for audit and compliance reviews, and supporting control-readiness efforts. I have been on the build side of that seam for two decades. I am deliberately moving to the side that also **evaluates** what gets built. But I am taking more than two decades of critical thinking and engineering expertise along for the ride.
 
-
 ## Where I'm Aiming
 
-Four adjacent lanes, one underlying skill set.
+I am seeking roles that leverage an engineering mindset to effectively bridge the gap between technical operations and the modern demands of IT Audit and GRC functions. My goal is to transform complex architectural requirements into robust control narratives and migrate manual processes toward continuous, automated compliance.
 
 | Focus | What I bring |
 |---|---|
-| **Data protection / cryptography engineering** | KMS, HSM, PKI, encryption, tokenization, masking, key lifecycle governance |
-| **Security engineering** | Cloud and infrastructure security, identity and access management (IAM), CASB, DPSM, DLP, Cloud KMS, secure architecture, automation |
+| **GRC Engineering** | Policy-as-code, infrastructure-as-code guardrails, continuous control monitoring, automated evidence pipelines, KPI/KRI metrics, dashboards, and executive-visible scorecards |
+| **IT Audit & Assurance** | Control design and effectiveness testing, framework crosswalks, risk assessments, and streamlined remediation tracking |
+| **Data Protection / Cryptography** | KMS, HSM, PKI, encryption, tokenization, masking, and key lifecycle governance |
+| **Security Engineering** | Cloud and infrastructure security, identity and access management (IAM), CASB, DPSM, DLP, Cloud KMS, and secure automation |
+
+What ties these disciplines together: I excel at translating complex architecture into clear control narratives and turning existing systems into reliable, continuous compliance evidence sources rather than point-in-time screenshot exercises.
+
+| Focus | What I bring |
+|---|---|
 | **GRC engineering** | Policy-as-code, infrastructure-as-code guardrails, continuous control monitoring, automated evidence pipelines, KPI/KRI metrics, dashboards, and executive-visible scorecards |
 | **IT audit & assurance** | control design testing and control effectiveness testing, framework crosswalks, risk assessments, remediation tracking |
-
-What ties them together: I can translate complex architecture into clear control narratives and turn existing systems into continuous compliance evidence sources instead of point-in-time screenshot exercises.
+| **Data protection / cryptography engineering** | KMS, HSM, PKI, encryption, tokenization, masking, key lifecycle governance |
+| **Security engineering** | Cloud and infrastructure security, identity and access management (IAM), CASB, DPSM, DLP, Cloud KMS, secure architecture, automation |
 
 ## What's Here
 
