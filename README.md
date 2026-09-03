@@ -19,14 +19,12 @@ Four adjacent lanes, one underlying skill set.
 
 | Focus | What I bring |
 |---|---|
-| **Data protection / cryptography engineering** | KMS, HSM, PKI, encryption, tokenization, masking, key lifecycle governance — my deepest, most verifiable SME area |
-| **Security engineering** | Cloud and infrastructure security, identity and access, secure architecture, automation |
+| **Data protection / cryptography engineering** | KMS, HSM, PKI, encryption, tokenization, masking, key lifecycle governance |
+| **Security engineering** | Cloud and infrastructure security, identity and access management (IAM), CASB, DPSM, DLP, Cloud KMS, secure architecture, automation |
 | **GRC engineering** | Policy-as-code, infrastructure-as-code guardrails, continuous control monitoring, automated evidence pipelines, KPI/KRI metrics, dashboards, and executive-visible scorecards |
-| **IT audit & assurance** (entry to mid-level) | CISA-backed control design and testing, framework crosswalks, risk assessment, remediation tracking — the deliberate pivot, where I'm building reps rather than claiming years |
+| **IT audit & assurance** | control design testing and control effectiveness testing, framework crosswalks, risk assessments, remediation tracking |
 
-What ties them together: I can translate complex architecture into clear control narratives, decode
-an audit request into engineering tasks, and turn existing systems into continuous compliance
-evidence sources instead of point-in-time screenshot exercises.
+What ties them together: I can translate complex architecture into clear control narratives and turn existing systems into continuous compliance evidence sources instead of point-in-time screenshot exercises.
 
 ## What's Here
 
