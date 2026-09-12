@@ -6,10 +6,9 @@ If you are looking for a balanced problem solver with a wide range of relevant s
 
 ## Background
 
-My IT career spans designing and deploying carrier-grade network backbones, cloud hosting infrastructure, next-generation spine-leaf data centers, and software-defined network and security architectures, along with all the hardware, software, tooling, virtualization, and protocols in between: routing and switching, BGP, OSPF, MPLS, firewalls, load balancers, data brokers, network monitoring and telemetry, SIEM, IPS/IDS, endpoint security, and modern overlay networking technologies including VXLAN/EVPN fabrics, VTEPs, distributed routing and switching, VMware NSX-T, microsegmentation, east-west traffic controls, network virtualization, and hyperscaler VPC/VNet networking across private, hybrid, and public cloud environments.
+My IT career spans designing and deploying carrier-grade network backbones, cloud hosting infrastructure, next-generation spine-leaf data centers, and software-defined network and security architectures, along with all the hardware, software, tooling, virtualization, and protocols in between: routing and switching, BGP, OSPF, MPLS, firewalls, load balancers, data brokers, network monitoring and telemetry, SIEM, IPS/IDS, endpoint security, and modern overlay networking technologies including VXLAN/EVPN fabrics, VTEPs, distributed routing and switching, VMware NSX-T, and microsegmentation.
 
-I have also worked extensively with Docker, Kubernetes (K8s), Linux, Ansible, Python-based automation, APIs, and various open-source tooling. Many of those solutions operated under real regulatory pressure and industry standards — HIPAA, PCI DSS, NERC CIP, SOX/ITGC, CMMC, NIST SP 800-171, FIPS 140-2/140-3, SOC 2, ISO 27001, GDPR, and others.
-
+Many of those solutions operated under real regulatory pressure and industry standards — HIPAA, PCI DSS, NERC CIP, SOX/ITGC, CMMC, NIST SP 800-171, FIPS 140-2/140-3, SOC 2, ISO 27001, GDPR, and others.
 
 I have most recently worked as a **data protection engineer** focused on encryption and masking: enterprise key management and HSMs, PKI and digital certificate lifecycle management, tokenization, database and file-level encryption, and the CI/CD, IaC, and PaC practices that keep all of it running at scale.
 
