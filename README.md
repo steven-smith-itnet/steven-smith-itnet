@@ -6,7 +6,7 @@ If you are looking for a proven problem solver who can bridge engineering, gover
 
 ## Background
 
-My IT career spans designing and deploying carrier-grade network backbones, cloud hosting infrastructure, next-generation spine-leaf data centers, and software-defined network and security architectures, along with all the hardware, software, tooling, virtualization, and protocols in between: routing and switching, BGP, OSPF, MPLS, firewalls, load balancers, data brokers, network monitoring and telemetry, SIEM, IPS/IDS, endpoint security, and modern overlay networking technologies including VXLAN/EVPN fabrics, VTEPs, distributed routing and switching, VMware NSX-T, and microsegmentation.
+My IT career spans designing and deploying carrier-grade network backbones, cloud hosting infrastructure, and software-defined network and security architectures, along with all the hardware, software, design concepts, tooling, virtualization, and protocols in between: routing and switching, BGP, OSPF, IS-IS, MPLS, modern overlay networking technologies including spine-leaf, VXLAN/EVPN fabrics, VTEPs, distributed routing and switching, VMware NSX-T, microsegmentatiofirewalls, load balancers, data brokers, network monitoring and telemetry, SIEM, IPS/IDS, and endpoint security.
 
 Many of those solutions operated under real regulatory pressure and industry standards — HIPAA, PCI DSS, NERC CIP, SOX/ITGC, CMMC, NIST SP 800-171, FIPS 140-2/140-3, SOC 2, ISO 27001, GDPR, and others.
 
