@@ -2,22 +2,22 @@
 
 Senior information security engineer working across the data protection, GRC, IT controls assurance, and AI governance space. Leveraging 20+ years of hands-on experience designing and securing infrastructure in regulated environments, I help organizations meet their cybersecurity, risk, and compliance objectives.
 
-If you are looking for a proven problem solver who can bridge engineering, governance, and assurance, someone who can evaluate technology risk, build and assess control environments, apply automation and agentic AI to improve efficiency, adapt to evolving priorities, and lead critical initiatives from strategy through execution, let’s connect.
+If you are looking for a proven problem solver who can bridge engineering, governance, and assurance - someone who can evaluate technology risk, build and assess control environments, apply automation and agentic AI to improve efficiency, adapt to evolving priorities, and lead critical initiatives from strategy through execution- let’s connect.
 
 ## Background
 
-My IT career spans designing and deploying carrier-grade network backbones, cloud hosting infrastructure, and software-defined network and security architectures, along with all the hardware, software, design concepts, tooling, virtualization, and protocols in between: routing and switching, BGP, OSPF, IS-IS, MPLS, modern overlay networking technologies including spine-leaf, VXLAN/EVPN fabrics, VTEPs, distributed routing and switching, VMware NSX-T, microsegmentatiofirewalls, load balancers, data brokers, network monitoring and telemetry, SIEM, IPS/IDS, and endpoint security.
+My IT career spans designing and deploying carrier-grade network backbones, cloud hosting infrastructure, and software-defined network and security architectures, along with all the hardware, software, design concepts, tooling, virtualization, and protocols in between: routing and switching, BGP, OSPF, IS-IS, MPLS, modern overlay networking technologies including spine-leaf, VXLAN/EVPN fabrics, VTEPs, distributed routing and switching, VMware NSX-T, microsegmentation, firewalls, load balancers, data brokers, network monitoring and telemetry, SIEM, IPS/IDS, and endpoint security.
 
 Many of those solutions operated under real regulatory pressure and industry standards — HIPAA, PCI DSS, NERC CIP, SOX/ITGC, CMMC, NIST SP 800-171, FIPS 140-2/140-3, SOC 2, ISO 27001, GDPR, and others.
 
-I have most recently worked as a **data protection engineer** focused on encryption and masking: enterprise key management and HSMs, PKI and digital certificate lifecycle management, tokenization, database and file-level encryption, and the CI/CD, IaC, and PaC practices that keep all of it running at scale.
+Most recently, I worked as a **data protection engineer** focused on encryption and masking: enterprise key management and HSMs, PKI and digital certificate lifecycle management, tokenization, database- and file-level encryption, and the CI/CD, IaC, and PaC practices that keep it all running at scale.
 
 Throughout my career, some of the most interesting work has been at the seam: partnering with internal audit and GRC teams on regulatory assessments, acting as the technical liaison for compliance reviews, and supporting control-readiness efforts. I have been on the build side of that seam for more than two decades. I am deliberately moving toward the side that also **evaluates** what gets built — while bringing more than two decades of critical thinking and engineering expertise along for the ride.
 
 
 ## Where I'm Aiming
 
-I am seeking roles that leverage an engineering mindset to effectively bridge the gap between technical operations and the modern demands of IT Audit and GRC functions -- with specific focus on AI security and governance. My goal is to transform complex architectural requirements into robust control narratives and migrate manual processes toward continuous, automated compliance.
+I am seeking roles that leverage an engineering mindset to effectively bridge the gap between technical operations and the modern demands of IT Audit and GRC functions -- with a specific focus on AI security and governance. My goal is to transform complex architectural requirements into robust control narratives and migrate manual processes toward continuous, automated compliance.
 
 | Focus | What I bring |
 |---|---|
