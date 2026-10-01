@@ -39,6 +39,7 @@ A portfolio built to demonstrate the work rather than describe it.
 - [gcp-cloud-kms-hsm-key-management-guide](https://github.com/steven-smith-itnet/gcp-cloud-kms-hsm-key-management-guide) — Google Cloud KMS, Cloud HSM, Cloud EKM, and Autokey
 - [thales-ciphertrust-manager-install-guide](https://github.com/steven-smith-itnet/thales-ciphertrust-manager-install-guide) — CipherTrust Manager on VMware and AWS, with KMIP, CTE/CTE-U, and Splunk integration
 - [certificate-expiration-monitoring-demo](https://github.com/steven-smith-itnet/certificate-expiration-monitoring-demo) — TLS/PKI discovery, inventory, alerting, and alert-fatigue reduction across PowerShell, Python, SQL, and multi-cloud IaC
+- [data-protection-pqc-security-architecture](https://github.com/steven-smith-itnet/data-protection-pqc-security-architecture) — enterprise data protection and post-quantum cryptography reference architecture, with multi-cloud playbooks, engineering tools, and an executive briefing
 
 **GRC engineering & control automation**
 
@@ -46,6 +47,7 @@ A portfolio built to demonstrate the work rather than describe it.
 - [aws-least-privilege-compliance-checker](https://github.com/steven-smith-itnet/aws-least-privilege-compliance-checker) — automated IAM least-privilege analysis and policy-as-code guardrails mapped to SOC 2, NIST 800-53, and CIS
 - [soc2-cloud-control-mapping-demo](https://github.com/steven-smith-itnet/soc2-cloud-control-mapping-demo) — SOC 2 Trust Services Criteria mapped to AWS controls, with automated evidence collection in Bash, boto3, PowerShell, and Athena SQL
 - [grc-compliance-dashboard-demo](https://github.com/steven-smith-itnet/grc-compliance-dashboard-demo) — executive dashboard aggregating six program modules into KPIs/KRIs, risk trend, and remediation tracking, built dashboard-as-code
+- [techgrc-continuous-assurance](https://github.com/steven-smith-itnet/techgrc-continuous-assurance) — multi-cloud continuous assurance engineering: automated control testing, verifiable evidence, and an interactive Technology GRC handbook
 
 **Audit, risk & program work samples**
 
