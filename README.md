@@ -75,7 +75,7 @@ A portfolio built to demonstrate the work rather than describe it.
 
 ## Certifications
 
-**Held:** CISSP · CISA · Certified GRC Engineer – Auditor (CGE-AUD) · Security+ · ITIL 4 Foundation ·
+**Held:** CISSP · CISA · CSA TAISE (Trusted AI Security Expert) · Certified GRC Engineer – Auditor (CGE-AUD) · Security+ · ITIL 4 Foundation ·
 CCNP Security · CCNP Enterprise · CCNA
 
 **In progress:** CGE-P · CRISC · AIGP · CSA TAISE · AI governance coursework
