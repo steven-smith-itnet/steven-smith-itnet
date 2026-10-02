@@ -1,4 +1,4 @@
-# Steven Smith<br><sub>Data & Privacy Protection | IT Risk & Controls Assurance | AI Security & Governance</sub>
+# Steven Smith<br><sub>Data & Privacy Protection | GRC | IT Audit | Risk & Controls Assurance | AI Security & Governance</sub>
 
 Senior information security engineer working across the data protection, GRC, IT Audit, and AI security and governance space. Leveraging 20+ years of hands-on experience designing and securing infrastructure in regulated environments, I help organizations meet their cybersecurity, risk, and compliance objectives.
 
