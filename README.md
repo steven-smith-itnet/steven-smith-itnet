@@ -46,8 +46,8 @@ A portfolio built to demonstrate the work rather than describe it.
 - [ita-grc-toolkit](https://github.com/steven-smith-itnet/ita-grc-toolkit) — IT controls assurance toolkit: seven modules of reusable scripts and templates in Python, Bash, PowerShell, and Ansible, with GitHub Actions running OPA/Conftest and multi-cloud guardrails
 - [aws-least-privilege-compliance-checker](https://github.com/steven-smith-itnet/aws-least-privilege-compliance-checker) — automated IAM least-privilege analysis and policy-as-code guardrails mapped to SOC 2, NIST 800-53, and CIS
 - [soc2-cloud-control-mapping-demo](https://github.com/steven-smith-itnet/soc2-cloud-control-mapping-demo) — SOC 2 Trust Services Criteria mapped to AWS controls, with automated evidence collection in Bash, boto3, PowerShell, and Athena SQL
+- [ita-grc-continuous-assurance](https://github.com/steven-smith-itnet/ita-grc-continuous-assurance) — multi-cloud continuous assurance engineering: automated control testing, verifiable evidence, and an interactive GRC handbook
 - [grc-compliance-dashboard-demo](https://github.com/steven-smith-itnet/grc-compliance-dashboard-demo) — executive dashboard aggregating six program modules into KPIs/KRIs, risk trend, and remediation tracking, built dashboard-as-code
-- [techgrc-continuous-assurance](https://github.com/steven-smith-itnet/techgrc-continuous-assurance) — multi-cloud continuous assurance engineering: automated control testing, verifiable evidence, and an interactive Technology GRC handbook
 
 **Audit, risk & program work samples**
 
